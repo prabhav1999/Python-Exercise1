@@ -1,2 +1,2 @@
-# ML-Practice
-This repo contains ML practice snippets
+# Python-Exercise
+DE - Internet of Things
